@@ -6,7 +6,7 @@ from pyrogram.types import ( InlineKeyboardButton, InlineKeyboardMarkup,ForceRep
 import humanize
 from helper.database import  insert ,find_one
 from pyrogram.file_id import FileId
-CHANNEL = os.environ.get("CHANNEL", "-1001741731458")
+CHANNEL = os.environ.get("CHANNEL", "iprimehub")
 import datetime
 
 #Part of Day --------------------
