@@ -3,9 +3,9 @@ import os
 
 TOKEN = os.environ.get("TOKEN", "5054196357:AAEemWiF-_D2YYWtpuxb18fdUGcY5dhsrW0")
 
-API_ID = int(os.environ.get("API_ID", "11948995"))
+API_ID = int(os.environ.get("API_ID", "20997778"))
 
-API_HASH = os.environ.get("API_HASH", "cdae9279d0105638165415bf2769730d")
+API_HASH = os.environ.get("API_HASH", "55080b3d001b4027e7bcb9ca8d112ca5")
 
 if __name__ == "__main__" :
     plugins = dict(
