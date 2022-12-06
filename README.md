@@ -1,3 +1,1 @@
-# RENAMER_BOT
-
-Telegram File Renamer Bot 
+# File Renamer Bot 
