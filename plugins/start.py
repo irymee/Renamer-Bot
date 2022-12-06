@@ -25,7 +25,7 @@ else:
 async def start(client,message):
 	insert(int(message.chat.id))
 	await message.reply_text(text =f"""
-	Hello {message.from_user.first_name }
+	**Hello** {message.from_user.first_name }
 	**I am file renamer bot, Please sent any telegram to rename** 
 	""",reply_to_message_id = message.message_id)
 
