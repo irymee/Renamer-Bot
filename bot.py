@@ -1,7 +1,7 @@
 from pyrogram import Client
 import os
 
-TOKEN = os.environ.get("TOKEN", "5904306356:AAH8NQ3xBzpsd3TAH4RwJ-PPIjpYeAzYPuQ")
+TOKEN = os.environ.get("TOKEN", "5054196357:AAEemWiF-_D2YYWtpuxb18fdUGcY5dhsrW0")
 
 API_ID = int(os.environ.get("API_ID", "20997778"))
 
